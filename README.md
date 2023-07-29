@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shakhruz
 - 👀 I’m interested in Programming & Football & PlayStation (PES)
-- 🌱 I’m currently learning TypeScript based Tools and Libraries
+- 🌱 I’m currently learning Serverless architectures & tools
 - 💞️ I’m looking forward to contribute on some OSS
 - 📫 How to reach me iamrakhmatov@gmail.com
 
