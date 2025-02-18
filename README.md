@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shakhruz
-- 👀 I’m interested in Programming, Football & PlayStation (PES)
+- 👀 I’m interested in Programming & Football 
 - 📫 You can reach at iamrakhmatov@gmail.com
 
 <!---
