@@ -2,13 +2,13 @@
 -- ~/whoami
 
 local cruz = {
-  role = "software engineer",
-  company = "complyance",
-  location = "tashkent, uzb",
-  harness = "claude",
-  languages = { "typescript" },
-  hobby = "love football"
-  support = "blaugrana, culer"
-  contact = "iamrakhmatov@gmail.com
+  role: "software engineer",
+  company: "complyance",
+  location: { city: "tashkent", country: "uzb"},
+  harness: "claude",
+  language: "typescript",
+  hobby: "football"
+  support: "blaugrana"
+  contact: "iamrakhmatov@gmail.com
 }
 ```
