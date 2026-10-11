@@ -1,8 +1,15 @@
-- 👋 Hi, I’m Shakhruz
-- 👀 I’m interested in Programming & Football 
-- 📫 You can reach at iamrakhmatov@gmail.com
+```lua
+-- ~/whoami
 
-<!---
-iamrakhmatov/iamrakhmatov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+local cruz = {
+  role = "software engineer",
+  company = "complyance",
+  location = "tashkent, uzb",
+  harness = "claude",
+  languages = { "typescript" },
+  editor = "zed",
+  hobby = "love football"
+  support = "blaugrana, culer"
+  contact = "iamrakhmatov@gmail.com
+}
+```
